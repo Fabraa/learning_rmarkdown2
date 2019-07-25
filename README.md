@@ -12,3 +12,4 @@ be sure to edit the script to change the following variables to your name and em
 ## Learning Git & GitHub
 
 - [Learning Rmarkdown](learning-markdown.html)
+- [Learning Rmarkdown presentation](learning-markdown-2.html)
